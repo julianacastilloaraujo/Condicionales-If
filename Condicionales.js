@@ -12,6 +12,6 @@ if (true) {
 
 if (false) {
   console.log("Hola);
-  } else { 
+  } else { //no se asignan parametros al else
     console.log("soy falso");
     }
